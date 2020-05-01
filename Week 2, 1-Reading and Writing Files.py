@@ -45,7 +45,7 @@ then write  -file.close()
 Notes
 * 
 I can use the absolute path which is the full name of the path. 
- I can use also the relative path but after placing the txt file in C:\Users\jimko which is the directory where Python is placed.
+ I can use also the relative path but after placing the txt file in C:\Users\ which is the directory where Python is placed.
 
 ** 
 The Readline () method lets us read a single line in the file.
