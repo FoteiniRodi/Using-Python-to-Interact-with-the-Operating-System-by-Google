@@ -384,3 +384,18 @@ with open("guests.txt") as file: # open the text file guests
             print("{} is not checked in".format(element)) # otherwise print "element" is not checked in
 
 # We can see that Bob is checked in while Andrea is not.
+
+#%%
+"""
+Notes from w3 schools
+
+read() method
+The read() method returns the specified number of bytes from the file. Default is -1 which means the whole file.
+
+readline() method
+The readline() method returns one line from the file.
+
+readlines() method
+The readlines() method returns a list containing each line in the file as a list item.
+so, the readlines() method converts at once a text file to a python list
+
