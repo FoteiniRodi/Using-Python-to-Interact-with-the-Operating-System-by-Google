@@ -50,7 +50,7 @@ numeric repetition qualifiers = {m, n}      finds preceding repeated characters.
         r"[a-zA-Z]{5}", "a ghost"                       finds 5 repeating characters (characters can be any aplhabet letter lowercase or uppercase)
         (r"\b[a-zA-Z]{5}\b", "a scary ghost appeared")  finds 5 repeating characters, but only full words not part of words
 
-Note: use \b to get FULL WORDS!use \b at the begging and end of the pattern to indicate that I want matches that are words, not parts of words!
+Note: use \b to get FULL WORDS!use \b at the beginning and end of the pattern to indicate that I want matches that are words, not parts of words!
 
 3.3        Extracting a PID Using regexes in Python
 pattern r"\[(\d+)\], we want to find any numbers within []
