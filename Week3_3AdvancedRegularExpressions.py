@@ -32,7 +32,7 @@ APPLY IT ON THE MATCH OBJECT: x.groups() and get a tuple whose elements are the 
           r"^(\w*), (\w*)$", "Lovelace, Ada"                2 groups enclosed in parentheses
           r"^([\w \.-]*), ([\w \.-]*)$","Kennedy, John F."  2 groups
                                                             [] used to escape special character. and also to apply the * to each enclosed character
-                                                            the beginning^ and the ending$ are applied on the parenthesis
+                                                            the beginning^ and the ending$ are applied on the square brackets
                                                     
 Note: special characters 1) inside [] and 2) after \, lose their special meaning
 
