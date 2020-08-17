@@ -9,8 +9,8 @@ WEEK 4 – Managing Data and Processes
 Introduction:
 Imagine one of your colleagues is struggling with a program that keeps throwing an error. 
 Unfortunately, the program's source code is too complicated to easily find the error there. 
-The good news is that the program outputs a log file you can read! (the log file is called "fishy")
-Let's write a script to search the log file for the exact error, 
+The good news is that the program outputs a log file you can read! (the log file produced is called "errors_found")
+Let's write a script to search the log file called "fishy" for the exact error, 
     then output that error into a separate file* so you can work out what's wrong.
     separate file*: it is called "errors_found.log" and it is produced by the code we will write
 
