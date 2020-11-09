@@ -242,7 +242,7 @@ The key to for loops is that they let us perform an operation on each of the ele
 
 In Python, the sequences are data structures like a list or a tuple or a string. 
 In Bash, WE CONSTRUCT these sequences just by listing the elements with spaces in between.
-In Video question that show how to 
+In Video question (that shows how to construct a sequence for a FOR LOOP in Bash):
 Which “for” conditional line will add users Paul and Jeremy to a user variable?
 
 for users in Paul Jeremy
