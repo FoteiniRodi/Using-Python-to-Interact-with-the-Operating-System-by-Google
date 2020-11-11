@@ -398,4 +398,4 @@ The readline() method returns one line from the file.
 readlines() method
 The readlines() method returns a list containing each line in the file as a list item.
 so, the readlines() method converts at once a text file to a python list
-
+"""
